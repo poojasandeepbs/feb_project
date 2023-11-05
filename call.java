@@ -1,3 +1,1 @@
-this is my fir
-
-thiid 
+this is my first class
